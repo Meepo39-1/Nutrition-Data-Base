@@ -1,0 +1,52 @@
+{
+    "ingredients": [
+      {
+        "id": 1,
+        "nume": "morcov",
+        "calorii":41,
+        "grasimi":0.24,
+        "grasimi saturate":0,
+        "carbohidrati":10,
+        "zahar":4.7,
+        "fibra":2.8,
+        "proteine":1,
+        "alergeni":"Yes"
+      },
+      {
+        "id": 2,
+        "nume": "cartof",
+        "calorii":69,
+        "grasimi":0.08,
+        "grasimi saturate":0.02,
+        "carbohidrati":16,
+        "zahar":1.15,
+        "fibra":2.4,
+        "proteine":2,
+        "alergeni":"Yes"},
+      {
+        "id": 3,
+        "name": "ceapa",
+        "calorii":40,
+        "grasimi":0.1,
+        "grasimi saturate":0,
+        "carbohidrati":9.3,
+        "zahar":4.2,
+        "fibra":1.7,
+        "proteine":1.1,
+        "alergeni":"Yes"}
+    ],
+    "recipes":[
+        {
+        "id": 1,
+        "name": "Reteta1",
+        "calorii":40,
+        "grasimi":0.1,
+        "grasimi saturate":0,
+        "carbohidrati":9.3,
+        "zahar":4.2,
+        "fibra":1.7,
+        "proteine":1.1,
+        "alergeni":"Yes"
+        }
+    ]
+  }
